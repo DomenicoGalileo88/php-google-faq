@@ -1,7 +1,7 @@
 
 .container{
     width: 1200px;
-    margin: 2rem auto;
+    margin: 0 auto;
 }
 
 h1{
@@ -18,6 +18,14 @@ p{
 
 a{
     text-decoration: none;
+}
+
+header{
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 1;
+    background-color: white;
 }
 
 .header_top{
@@ -78,4 +86,39 @@ a{
     color: blue;
     border-bottom: 4px solid blue;
     padding-bottom: 1rem;
+}
+
+main{
+    margin-top: 16rem;
+}
+
+.site_footer{
+    background-color: rgba(238, 238, 238, 0.808);
+}
+
+.site_footer .container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.footer_start ul{
+    display: flex;
+}
+
+.footer_start li a{
+    font-size: 1.2rem;
+    margin-right: 2rem;
+    color: grey;
+}
+
+.footer_end{
+    display: flex;
+    align-items: center;
+}
+
+.footer_end select{
+    font-size: 1.2rem;
+    width: 140px;
+    margin-left: 0.5rem;
 }

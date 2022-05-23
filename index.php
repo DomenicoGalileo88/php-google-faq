@@ -151,20 +151,20 @@ $faq = [
         <nav class="navbar">
             <ul>
                 <li><a href="#">
-                    Introduzione
-                </a></li>
+                        Introduzione
+                    </a></li>
                 <li><a href="#">
-                    Norme sulla privacy
-                </a></li>
+                        Norme sulla privacy
+                    </a></li>
                 <li><a href="#">
-                    Termini di servizio
-                </a></li>
+                        Termini di servizio
+                    </a></li>
                 <li><a href="#">
-                    Tecnologie
-                </a></li>
+                        Tecnologie
+                    </a></li>
                 <li><a class="active" href="#">
-                    Domande frequenti
-                </a></li>
+                        Domande frequenti
+                    </a></li>
             </ul>
         </nav>
         <!-- /.navbar -->
@@ -192,7 +192,27 @@ $faq = [
     <!-- /.site_main -->
 
     <footer class="site_footer">
+        <div class="container">
+            <div class="footer_start">
+                <ul>
+                    <li><a href="#">Google</a></li>
+                    <li><a href="#">Tutto su google</a></li>
+                    <li><a href="#">Privacy</a></li>
+                    <li><a href="#">Termini</a></li>
+                </ul>
+            </div>
 
+            <div class="footer_end">
+                <img width="20" src="./assets/img/icon_footer.png" alt="">
+                <select name="lingua">
+                    <option value="italiano">Italiano</option>
+                    <option value="italiano">Inglese</option>
+                    <option value="italiano">Spagnolo</option>
+                    <option value="italiano">Tedesco</option>
+                    <option value="italiano">Francese</option>
+                </select>
+            </div>
+        </div>
     </footer>
     <!-- /.site_footer -->
 
