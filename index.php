@@ -60,18 +60,26 @@ $faq = [
         </p>
         <ol>
             <li>
+                <p>
                 La società consociata Google che offre i servizi, tratta le tue informazioni ed è responsabile del rispetto delle leggi sulla privacy vigenti. Generalmente Google offre i propri servizi per i consumatori tramite una delle due società seguenti:
+                </p>
                 <ul>
                     <li>
+                        <p>
                         Google Ireland Limited, se gli utenti sono residenti nello Spazio economico europeo (paesi dell'Unione europea, oltre a Islanda, Liechtenstein e Norvegia) o in Svizzera.
+                        </p>
                     </li>
                     <li>
+                        <p>
                         Google LLC, con sede negli Stati Uniti, per il resto del mondo.
+                        </p>
                     </li>
                 </ul>
             </li>
             <li>
+                <p>
                 La versione dei termini che regola il nostro rapporto, che può variare in base alle leggi locali.
+                </p>
             </li>
         </ol>
         <p>
