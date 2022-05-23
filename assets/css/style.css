@@ -92,6 +92,10 @@ main{
     margin-top: 16rem;
 }
 
+.lower-alpha{
+    list-style-type: lower-alpha;
+}
+
 .site_footer{
     background-color: rgba(238, 238, 238, 0.808);
 }
